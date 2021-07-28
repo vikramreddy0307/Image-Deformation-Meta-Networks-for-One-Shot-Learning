@@ -3,6 +3,8 @@
 ## This is the implementation of the paper "Image Deformation Meta-Networks for One-Shot Learning"(CVPR 2019 Oral) in pytorch
 
 ## About this paper
+#### Data: https://deepai.org/dataset/imagenet
+#### CSV files: https://github.com/yaoyao-liu/mini-imagenet-tools/tree/main/csv_files
 Visual recognition systems may perform better one-shot learning, or learning concepts from a single or few examples, if they mimic the same behavior and synthesize distorted instances of new concepts. The primary takeaway is that, though the deformed images may not be visually realistic, they still contain important semantic information and play a substantial role in determining classifier decision limits
 
 
