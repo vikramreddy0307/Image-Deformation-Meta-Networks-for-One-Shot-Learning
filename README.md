@@ -26,5 +26,5 @@ This Image Deformation Meta-Network (IDeMe-Net) thus consists of two components:
 
 This paper proposes a conceptually simple yet powerful approach to address one-shot learning that uses a trained image deformation network to generate additional examples. This deformation network leverages unsupervised gallery images to synthesize deformed images, which is trained end-to-end by meta-learning
 
-Use the pre trained Deformation model provided by the author softRandom.t7
+Use the pre trained Deformation model provided by the author softRandom.t7 (https://drive.google.com/file/d/1-DiIrzI8cR3ed33WnmCD6dJ9zRhssnWc/view?usp=sharing)
 I did train for couple of epochs but my system ran out of memory. If you train , please feel free to share the results **vikramreddy0307 AtTheRate gmail.com**
